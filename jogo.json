@@ -1,0 +1,55 @@
+{
+  "id": "pool",
+  "slug": "sinuca",
+  "versaoDoContrato": 1,
+  "nome": {
+    "pt-BR": "Sinuca",
+    "en-US": "8-Ball Pool",
+    "es-ES": "Billar",
+    "fr-FR": "Billard",
+    "de-DE": "Billard",
+    "ja-JP": "ビリヤード",
+    "zh-CN": "台球",
+    "hi-IN": "पूल",
+    "ru-RU": "Бильярд",
+    "ar-AR": "البلياردو"
+  },
+  "descricao": {
+    "pt-BR": "Sinuca 8-ball em 3D num bar, física real, contra a IA (com níveis) ou local.",
+    "en-US": "3D 8-ball pool in a bar, real physics, vs the AI (with levels) or local.",
+    "es-ES": "Billar 8-ball en 3D en un bar, física real, contra la IA (con niveles) o local.",
+    "fr-FR": "Billard 8-ball en 3D dans un bar, physique réelle, contre l’IA (avec niveaux) ou en local.",
+    "de-DE": "3D-8-Ball-Billard in einer Bar, echte Physik, gegen die KI (mit Stufen) oder lokal.",
+    "ja-JP": "バーの3Dエイトボール, 本物の物理、AI対戦（難易度あり）またはローカル。",
+    "zh-CN": "酒吧里的 3D 八球台球, 真实物理，对战 AI（分难度）或本地对战。",
+    "hi-IN": "बार में 3D 8-बॉल पूल, असली फिजिक्स, AI से (स्तरों के साथ) या लोकल।",
+    "ru-RU": "3D-восьмёрка в баре, настоящая физика, против ИИ (с уровнями) или локально.",
+    "ar-AR": "بلياردو 8 كرات ثلاثي الأبعاد في حانة, فيزياء حقيقية، ضد الذكاء الاصطناعي (بمستويات) أو محليًا."
+  },
+  "seo": {
+    "pt-BR": {
+      "resumo": "Sinuca 8-ball 3D grátis no navegador: física real, mesa de bar, contra o computador em três níveis ou com um amigo.",
+      "sobre": "Bola 8 com física de verdade: efeito, rebote na tabela e a bola branca respondendo a onde você bate nela. A IA tem três níveis, e o modo local passa o taco de um para o outro no mesmo aparelho.",
+      "comoJogar": "Arraste para mirar, puxe para trás para dar força, e escolha o ponto de contato na branca para dar efeito."
+    },
+    "en-US": {
+      "resumo": "Free 3D 8-ball pool in your browser: real physics, a bar table, three AI levels or a friend on the same device.",
+      "sobre": "Eight-ball with honest physics: spin, cushion rebound, and a cue ball that answers to where you strike it. The AI has three levels, and local play passes the cue back and forth on one device.",
+      "comoJogar": "Drag to aim, pull back for power, and pick the contact point on the cue ball for spin."
+    }
+  },
+  "etiquetas": ["Classic", "3d", "Physics", "Multiplayer"],
+  "capa": "public/capa.jpg",
+  "icone": "public/icone.svg",
+  "brilho": "rgba(232, 180, 94, 0.5)",
+  "janela": {
+    "largura": 880,
+    "altura": 600,
+    "minLargura": 420,
+    "minAltura": 340
+  },
+  "aceitaConvite": false,
+  "entraNoPodio": false,
+  "recorde": null,
+  "capacidades": []
+}
